@@ -7,8 +7,8 @@ var database, foodS, foodStock;
 function preload()
 {
   //load images here
-  doge = loadImage("images/dogImg1.png")
-  hdog = loadImage("images/dogImg.png")
+  doge = loadImage("dogImg1.png")
+  hdog = loadImage("dogImg.png")
 
 }
 
